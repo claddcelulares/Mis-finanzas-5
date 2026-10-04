@@ -1,0 +1,6 @@
+MIS FINANZAS - app instalable (PWA)
+
+Subí TODOS estos archivos juntos a un hosting con HTTPS (Netlify Drop, GitHub Pages, Cloudflare Pages, etc.).
+Después abrí la dirección en Chrome del celular > menú (⋮) > "Instalar app" / "Agregar a pantalla de inicio".
+La primera vez que abrís necesita internet; después funciona sin conexión.
+Tus datos se guardan solo en el celular. Para pasar los del archivo anterior: Resumen > Descargar copia, y en la app instalada Restaurar copia.
